@@ -1,12 +1,6 @@
-**Attachment 1 \- New *Crime Prevention and Youth Justice* Policy**
+# Crime Prevention and Youth Justice
 
-**Crime Prevention and Youth Justice**
-
-Adopted May 2024
-
-*Explanatory note \- this policy should be read in conjunction with the Law Enforcement and Judicial Process policy*
-
-**Principles**
+## Principles
 
 The Queensland Greens believe that:
 
@@ -26,7 +20,7 @@ The Queensland Greens believe that:
 
 1. Queensland should have strong effective evidence-based weapon control.
 
-**Youth Justice**
+### Youth Justice
 
 1. Youth justice policies should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation, not punishment.
 
@@ -36,7 +30,7 @@ The Queensland Greens believe that:
 
 1. Young people have the right to community and to culturally appropriate community justice programs and services.
 
-**Aims**
+## Aims
 
 The Queensland Greens will:
 
@@ -103,7 +97,7 @@ The Queensland Greens will:
 
 1. Strengthen legal protections for good-faith research. Discovering or publishing institutional problems benefits society, and must not be criminalised.
 
-**Youth Justice**
+### Youth Justice
 
 1. Empower and support youth advocates to advise and engage in decision-making that impacts young people.
 
@@ -113,7 +107,7 @@ The Queensland Greens will:
 
 1. Fund evidence-based, community-led programs for First Nations young people.
 
-**Gun Control**
+### Gun Control
 
 1. Continue controls over gun use and ownership by:
 
@@ -127,15 +121,9 @@ The Queensland Greens will:
 
     1. Removing firearms from private security agencies.
 
-**Attachment 2 \- New *Law Enforcement and Judicial Process* Policy**
+# Law Enforcement and Judicial Process
 
-**Law Enforcement and Judicial Process**
-
-Adopted May 2024
-
-*Explanatory note \- this policy should be read in conjunction with Crime Prevention and Youth Justice Policy*
-
-**Principles**
+## Principles
 
 The Queensland Greens believe that:
 
@@ -197,7 +185,7 @@ The Queensland Greens believe that:
 
 1. Incarcerated people have the right to work and to be compensated at full award rates.
 
-**Youth Justice and Child Protection**
+### Youth Justice and Child Protection
 
 1. We should aspire to have no youth incarceration.
 
@@ -207,7 +195,7 @@ The Queensland Greens believe that:
 
 1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
 
-**Law Enforcement**
+### Law Enforcement
 
 1. Law enforcement should be restructured to focus on core responsibilities for which they are suited and trained. 
 
@@ -223,7 +211,7 @@ The Queensland Greens believe that:
 
 1. Law enforcement must not intimidate, manipulate, or coerce witnesses or defendants.
 
-**Conclusion**
+### Conclusion
 
 1. Imprisonment exacerbates the social conditions that lead to crime, and is more likely to result in recidivism, therefore efforts should be made to find alternatives.
 
@@ -231,7 +219,7 @@ The Queensland Greens believe that:
 
 1. We need to focus on building up holistic life-sustaining systems that prevent, reduce, and better address harm, in order to create a world where we do not need to rely on law enforcement, prisons, and child protection authorities to reduce and address violence and harm in our communities.
 
-**Aims**
+## Aims
 
 The Queensland Greens will:
 
@@ -245,7 +233,7 @@ The Queensland Greens will:
 
 1. Require that crime scene cleanup be the responsibility of, and paid for by, the state.
 
-**Law Enforcement**
+### Law Enforcement
 
 1. Establish a separate entity to manage traffic control, traffic law enforcement, and crowd control.
 
@@ -327,7 +315,7 @@ The Queensland Greens will:
 
 1. Ensure the system for complaint resolution is reviewed and met with adaptive strategies to ensure processes are improved when ineffective or inappropriate processes are found.
 
-**Judicial process and Sentencing**
+### Judicial process and Sentencing
 
 1. Advocate for the imposition of non-custodial penalties for those convicted of non-violent crimes in order to maximise the likelihood of successful rehabilitation and reduce recidivism.
 
@@ -361,7 +349,7 @@ The Queensland Greens will:
 
 1. Support the removal of ‘archaic’ or ‘trivial’ offences from legislation.
 
-**Prisons and Rehabilitation**
+### Prisons and Rehabilitation
 
 1. Re-establish public ownership and control of all Queensland correctional facilities.
 

@@ -1,8 +1,8 @@
 # Crime Prevention and Judicial Process
 
-## **Principles**
+## Principles
 
-### **The Queensland Greens believe that:**
+The Queensland Greens believe that:
 
 1. All individuals have a right to a safe, peaceful and ecologically sustainable existence, free from crime and fear of violence.
 
@@ -44,11 +44,11 @@
 
 1. Coercive control is unacceptable in our society and constitutes a significant and devastating part of domestic violence. A change in cultural attitudes to coercive control is crucial to reducing domestic violence.
 
-## **Aims**
+## Aims
 
-### **The Queensland Greens will:**
+The Queensland Greens will:
 
-#### **Crime Prevention**
+#### Crime Prevention
 
 1. Prioritise programs that promote:
 
@@ -88,11 +88,11 @@
 
 1. Support the ongoing provision and expansion of supervised safe places for drug- and alcohol-affected persons (i.e. supervised injection facilities).
 
-#### **Legal Services**
+#### Legal Services
 
 1. Support increased funding for Legal Aid, Community Legal Centres, and Aboriginal Legal Services to increase the capacity for advice, representation, community legal education, and law reform.
 
-#### **Judicial process and Sentencing**
+#### Judicial process and Sentencing
 
 1. Advocate for the imposition, wherever possible, of non-custodial penalties for those convicted of relatively minor, non-violent crimes in order to maximise the likelihood of successful rehabilitation and reduce recidivism.
 
@@ -116,7 +116,7 @@
 
 1. Support the removal of archaic or trivial offences from legislation.
 
-#### **Prisons and Rehabilitation**
+#### Prisons and Rehabilitation
 
 1. Re-establish public ownership and control of all Queensland correctional facilities.
 
@@ -146,7 +146,7 @@
 
 (Adopted October 2014\)
 
-## **Principles**
+## Principles
 
 The Queensland Greens believe that:
 
@@ -160,11 +160,11 @@ The Queensland Greens believe that:
 
 1. Addressing the over-representation of Aboriginal, and Torres Strait Islander people in the criminal justice system in Queensland is essential.
 
-## **Aims**
+## Aims
 
 The Queensland Greens will:
 
-### **Youth Justice**
+### Youth Justice
 
 1.  Raise the age of criminal responsibility to 14 years
 
@@ -202,7 +202,7 @@ The Queensland Greens will:
 
 (Adopted October 2014; updated April 2021; updated May 2021\)
 
-## **Principles**
+## Principles
 
 The Queensland Greens believe that:
 
@@ -220,11 +220,11 @@ The Queensland Greens believe that:
 
 1. Departments and agencies with expertise in domestic violence, financial crimes and traffic law should have responsibility for leading investigations and directing police in enforcement measures.
 
-## **Aims**
+## Aims
 
 The Queensland Greens will:
 
-### **Law Enforcement**
+### Law Enforcement
 
 1. Ensure law enforcement agencies will be trained to respect diversity by taking cultural and social sensitivities into consideration when dealing with the general public.
 
@@ -262,7 +262,7 @@ The Queensland Greens will:
 
 1. Make counter-terrorism investigations solely the jurisdiction of the federal police.
 
-### **Gun Control**
+### Gun Control
 
 1. Continue controls over gun use and ownership:
 

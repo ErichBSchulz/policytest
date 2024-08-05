@@ -4,32 +4,6 @@ Sunday, 4 August 2025, 9:00am-5:00pm
 
       1. MOTION: That the ‘Crime Prevention and Judicial Process’, ‘Youth Justice’, and ‘Law Enforcement’ policies be replaced by ‘Crime Prevention and Youth Justice’ as per Attachment 1 and ‘Law Enforcement and Judicial Process’ as per Attachment 2 and be adopted as Queensland Greens policy.
 
-         Moved Queensland Policy Committee.
-
-      1. PROCEDURAL MOTION: That Motion 6.2 be tabled until the next State Council so as to avoid making substantive changes to our policy platform while state election campaign initiatives are in the process of being developed and released.
-
-         Moved Gladstone & Callide Branch.
-         Block noted Pine Rivers, Logan, Keppel, Ipswich Lockyer.
-
-         On hold until amendments are dealt with.
-
-      1. PROCEDURAL MOTION: That the motion 6.2.2 be put to a vote.
-
-         Moved Beau Pett. Block noted: Pine Rivers, Sandgate, Keppel.
-
-         Lapsed.
-
-      1. PROCEDURAL MOTION: That the motion at 6.2.2 be withdrawn.
-
-         Moved Gladstone & Callide Branch.
-         Dissent noted Cooper, Noosa, Caboolture, Maleny, Sunshine Coast.
-         Block noted Cooper delegate.
-
-         On hold until amendments are dealt with.
-
-      1. PROCEDURAL MOTION: That Standing Orders be suspended for the purpose of allowing the procedural motions at 6.2.2 and 6.2.4 to be placed on hold until the amendments to the substantive motion at 6.2.1 are dealt with.
-
-         Moved Sandgate Branch. Seconded Greenslopes Branch. Accepted by consensus.
 
       1. AMENDMENT: Amend the Law Enforcement and Judicial Process Policy, Aim 27 as below:
 
