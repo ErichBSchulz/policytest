@@ -30,7 +30,7 @@ The Queensland Greens will:
 1. <!--- a.specifics ---> Specific services for First Nations peoples, culturally and linguistically diverse people, disabled people, and people from lower socio-economic backgrounds.
 1. <!--- a.support ---> Voluntary early intervention programs, such as community based, residential, counselling and other support services.
 1. <!--- a.postRelease ---> Post release services to prevent re-offending. Post-release services need to be properly funded and fully accessible in all communities \- urban, regional and remote \- and culturally appropriate.
-        1. Services that are led by lived expertise, widely available, accessible, and free.
+1. Services that are led by lived expertise, widely available, accessible, and free.
 1. Address domestic violence by:
 1. <!--- a.dv ---> Introducing an adequately funded and integrated approach to combating domestic violence and sexual assault, with services available throughout the state.
 1. <!--- a.dvEd ---> Implementing evidence-based ongoing prevention , education, and accountability programs aimed at law enforcement and judiciary regarding domestic violence including coercive control. These programs should be led by frontline services and informed by the lived expertise of victim survivors and oppressed peoples.
