@@ -3,33 +3,26 @@
 ## Principles
 
 The Queensland Greens believe that:
-
 [existence]: # (p)
 1. All individuals have a right to a safe, peaceful existence, free from harm and fear of violence.
 
 1. Crime prevention strategies, programs, and education must be evidence-based, proactive, community-led and holistic.
 
 1. We must focus on building up community-led systems that prevent, reduce, and better address violence and harm in our communities, rather than relying on law enforcement, prisons and child protection authorities to resolve them.
-
 [FirstNations]: # (p)
 1. The over representation of First Nations peoples in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
-
 [disabledPeople]: # (p)
 1. The over representation of disabled people in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
-
 [coerciveControl]: # (p)
 1. Coercive control is unacceptable in our society and constitutes a significant and devastating part of domestic violence. A change in cultural attitudes to coercive control is crucial to reducing domestic violence.
-
 [substanceUse]: # (p)
 1. Substance use is a health issue, not a criminal issue. Drug use and possession should be decriminalised.
-
 [weapons]: # (p)
 1. Queensland should have strong effective evidence-based weapon control.
 
 ### Youth Justice
 
 1. Youth justice policies should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation, not punishment.
-
 [criminalAge]: # (p)
 1. The age of criminal responsibility should be no lower than 14 yearsthe voting age.
 
@@ -79,12 +72,10 @@ The Queensland Greens will:
 1. Providing protection, safety, and equality for young people in the prevention of and response to domestic violence, including access to their community and to culturally appropriate programs and services, in accordance with the Human Rights Act (QLD) and the International Convention on the Rights of the Child. Priority must be given to family support, including the option to stay with extended family and/or within their communities.
 
     1. Increasing educational campaigns about domestic and intimate partner violence that incorporate an understanding of intersectionality, including support, programs, awareness, and training with acknowledgement of LGBTIQA+, men, disabled, elderly, and youth survivors.
-
 [hate]: # (a)
 1. Introduce specific programs to combat violence and harm against people on the basis of their race, religion, gender identity or sexual orientation, intersex status, disability, or other marginalisation. These programs must be led by people who have experienced the relevant marginalisation.
 
 1. Engage a study to determine whether, in line with overseas studies, hate crime laws in Australia disproportionately incarcerate marginalised people (such as First Nations, culturally and linguistically diverse, disabled, and LGBTIQA+ people).
-
 [stats]: # (a)
 1. Continue to support a well-resourced and independent Crime Statistics and Research unit within the Queensland Government Statistician's Office.
 
@@ -95,16 +86,12 @@ The Queensland Greens will:
 1. Support ongoing research of the over incarceration of culturally and linguistically diverse (CALD) people, with an oversight committee composed of CALD people and community groups led by and for CALD people to be specifically implemented at federal and state level.
 
 1. Decriminalise sex work.
-
 [drugs]: # (a)
 1. Implement drug law reform including the full decriminalisation of drug use.
-
 [safePlace]: # (a)
 1. Support the ongoing provision and expansion of supervised safe places for drug- and alcohol-affected persons (i.e. safe consumption facilities), including drug/pill testing facilities. These facilities must be available in all regions and communities.
-
 [alternatives]: # (a)
 1. Support trials of alternatives to the carceral system in communities in Queensland. Trials must be performed with full participatory community engagement, involvement of all community stakeholders, and with a shared power structure.
-
 [legalAid]: # (a)
 1. Ensure sufficient funding for independent, free legal support and advocacy organisations including Legal Aid, Community Legal Centres, and Aboriginal and Torres Strait Islander Legal Services to:
 
@@ -124,7 +111,6 @@ The Queensland Greens will:
 1. Empower and support youth advocates to advise and engage in decision-making that impacts young people.
 
 1. Fund evidence-based programs to engage young people in prosocial and development activities in their communities and schools.
-
 [youthSupport]: # (a)
 1. Fund evidence-based diversionary programs for young people, as an alternative to the carceral system.
 
@@ -153,10 +139,8 @@ The Queensland Greens will:
 ## Principles
 
 The Queensland Greens believe that:
-
 [betterJustice]: # (p)
 1. Law enforcement and judicial processes should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation.
-
 [justEffective]: # (p)
 1. A just and effective criminal justice system:
 
@@ -165,15 +149,12 @@ The Queensland Greens believe that:
 * Addresses the causes of crime;
 * Protects the human rights of victims, suspects, and perpetrators; and
 * Offers a range of interventions in addition to loss of liberty.
-
 [lastResort]: # (p)
 1. Imprisonment should be a measure of last resort and focussed on rehabilitation.
 
 1. Loss of liberty, including custodial interventions, temporary holds, remand, and arrests should only be used in situations where the person is a risk to the community.
-
 [nonviolent]: # (p)
 1. People should not be held in remand for minor simple or nonviolent offences.
-
 [basics]: # (p)
 1. The following basic principles of criminal justice must be protected:
 
@@ -194,7 +175,6 @@ The Queensland Greens believe that:
     1. Judicial discretion in sentencing and bail.
 
     1. The freedom from allegation based on association.
-
 [victims]: # (p)
 1. Victims of crime should have improved , timely, accessible, linguistically and culturally appropriate compensation, counselling and other such measures, accessible in all regions and also accessible in terms of financial access and disability access.
 
@@ -207,7 +187,6 @@ The Queensland Greens believe that:
 1. All people in closed environments, such as institutions, prisons, and psychiatric facilities, have a right to a safe, peaceful existence, free from harm and fear of violence.
 
 1. All people in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
-
 [publicPrisons]: # (p)
 1. Any prisons, remand facilities or jails should be publicly owned and run.
 
@@ -220,10 +199,8 @@ The Queensland Greens believe that:
 1. Incarcerated people have the right to work and to be compensated at full award rates.
 
 ### Youth Justice and Child Protection
-
 [noYouthIncarceration]: # (a)
 1. We should aspire to have no youth incarceration.
-
 [childProtection]: # (a)
 1. We must address theThe structural flaws within the existing child protection system fail children and families and do not address the underlying causes of crime.
 
@@ -232,14 +209,12 @@ The Queensland Greens believe that:
 1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
 
 ### Law Enforcement
-
 [restructure]: # (p)
 1. Law enforcement should be restructured to focus on core responsibilities for which they are suited and trained.
 
 1. Law enforcement and judicial process is to remain free from political influence, and should be separate from each other.
 
 1. Law enforcement should utilise de-escalation tactics and seek to successfully resolve situations without the use of force, firearms or tasers wherever possible.
-
 [noHire]: # (p)
 1. The hiring of police by private interests, or any other form of privatisation of policing services, must be prohibited.
 
@@ -252,7 +227,6 @@ The Queensland Greens believe that:
 ### Conclusion
 
 1. Imprisonment exacerbates the social conditions that lead to crime, and is more likely to result in recidivism, therefore efforts should be made to find alternatives.
-
 [betterWay]: # (p)
 1. The current carceral justice system uses resources that would be better used to reduce rates of crime and imprisonment.
 
@@ -261,10 +235,8 @@ The Queensland Greens believe that:
 ## Aims
 
 The Queensland Greens will:
-
 [structural]: # (a)
 1. Support programs that address the structural circumstances contributing to crime.
-
 [available]: # (a)
 1. Prioritise and fund alternatives to imprisonment which are widely available and not subject to geographic limitations.
 
@@ -277,16 +249,12 @@ The Queensland Greens will:
 ### Law Enforcement
 
 1. Establish a separate entity to manage traffic control, traffic law enforcement, and crowd control.
-
 [dvLead]: # (a)
 1. Introduce an adequately funded and integrated approach to respond to domestic violence and sexual assault, with services available throughout the state.
-
 [dvResources]: # (a)
 1. Fund allied health workers and other community professionals to respond effectively to domestic and family violence.
-
 [dvEd]: # (a)
 1. Implement ongoing preventative and educative programs aimed at the public, law enforcement, and the judiciary regarding domestic violence, including coercive control.
-
 [training]: # (a)
 1. Ensure training and continued support for law enforcement officers in de-escalation and the successful resolution of situations without the use of force, firearms or tasers wherever possible.
 
@@ -319,7 +287,6 @@ The Queensland Greens will:
 
     [noDriveStun]: # (a)
 1. Ensure the removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
-
 [removeWeapons]: # (a)
 1. Remove tasers from law enforcement until additional safeguards are in place to ensure that only specially trained squads can use tasers, and that they only use tasers in situations of serious threat of violence to a person. Safeguards should include:
 
@@ -342,7 +309,6 @@ The Queensland Greens will:
     1. The removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
 
 1. Ensure law enforcement is not used to prevent protests or intimidate protestors.
-
 [policeSupport]: # (a)
 1. Ensure that appropriate and accessible support services are provided to members of the Queensland Police Service (QPS).
 
@@ -353,74 +319,55 @@ The Queensland Greens will:
     1. Ensure QPS takes responsibility to verify that police officers are physically, mentally, and emotionally able to carry out their role.
 
     1. Ensure QPS verify the competence of officers in supporting vulnerable people and attending domestic violence incidents.
-
 [diversity]: # (a)
 1. Ensure law enforcement agencies are trained by independent community organisations led by people with the relevant lived expertise to respect diversity when dealing with the general public.
-
 [dogs]: # (a)
 1. End the training of law enforcement dogs to be violent to people and the use of dogs to carry out stop and searches and in situations where there is a possibility to hurt people.
-
 [military]: # (a)
 1. Stop and reverse any policies which result in the militarisation of law enforcement, including the integration of military training, weapons, equipment, and philosophy into policing.
-
 [independantInvestigation]: # (a)
-1. Support the establishment of an independent body and the mechanisms for the prevention and investigation of corruption specifically within the QPS, in recognition of the breadth of responsibilities of the Queensland Crime and Corruption Commission.
-[properInvestigation]: # (a)
+1. Support the establishment of an independent body and the mechanisms for the prevention and investigation of corruption specifically within the QPS, in recognition of the breadth of responsibilities of the Queensland Crime and Corruption Commission.[properInvestigation]: # (a)
 1. Ensure that the system for the investigation and resolution of complaints is independent, transparent, accessible, effective, adequately resourced and timely.
-
 [complaints]: # (a)
 1. Ensure the system for complaint resolution is reviewed and met with adaptive strategies to ensure processes are improved when ineffective or inappropriate processes are found.
 
 ### Judicial process and Sentencing
-
 [noncustodial]: # (a)
 1. Advocate for the imposition of non-custodial penalties for those convicted of non-violent crimes in order to maximise the likelihood of successful rehabilitation and reduce recidivism.
-
 [noPol]: # (a)
 1. Oppose political pressure to extend sentences already imposed by a court.
 
 1. Abolish mandatory minimum sentencing.
-
 [restorative]: # (a)
 1. Expand the range of restorative justice and properly supervised diversionary measures.
-
 [drugCourt]: # (a)
 1. Extend the operation of the Drug Court and the Youth Drug and Alcohol Court to more locations across Queensland.
 
 1. Increase funding and capacity of the Family Court to prioritise parenting proceedings involving family violence or where a party has breached a family violence order.domestic violence cases and breacheparenting proceedings involving family violence or where a party has breached a family violence order.s of domestic violence orders.
 
 1. Ensure legal protections for research, investigation, and responsible disclosure of security vulnerabilities.
-
 [bail]: # (a)
 1. Remove unjust restrictions on the right to apply for bail, ensuring that any conditions placed on bail are reasonable and are not an indirect method of refusing bail.
-
 [firstNationsCJ]: # (a)
 1. Support distinct criminal justice policies in relation to First Nations peoples, led by members of those communities.
-
 [disabilityCJ]: # (a)
 1. Provide effective support systems within the courts for disabled people ( including victims, defendants/offenders, and witnesses).
-
 [sACJ]: # (a)
 1. Monitor and implement any necessary reforms to minimise stress on complainants in sexual assault and rape trials, consistent with a fair investigation, trial, and court procedures.
 
 1. Provide discretion for judges to permit representation for victims within trials.
 
 1. Increase funding for non-legal support services that help people navigate the criminal justice system.
-
 [DPP]: # (a)
 1. Adequately fund the office of Director of Public Prosecutions, and protect it from political interference.
-
 [diverseJudiciary]: # (a)
 1. Support measures to encourage greater diversity of representation in the judiciary.
-
 [noArchaic]: # (a)
 1. Support the removal of ‘archaic’ or ‘trivial’ offences from legislation.
 
 ### Prisons and Rehabilitation
-
 [pubPrisons]: # (a)
 1. Re-establish public ownership and control of all Queensland correctional facilities.
-
 [rights]: # (a)
 1. Support measures to ensure that the human rights and dignity of incarcerated people are respected within the prison environment, including:
 
@@ -442,10 +389,8 @@ The Queensland Greens will:
     1. Extending the franchise to vote to all incarcerated people.
 
 1. Ensure that all people in closed environments are placed in facilities appropriate for their gender and gender identity.
-
 [rehab]: # (a)
 1. Implement effective programs to rehabilitate incarcerated people and reduce recidivism, including education, training schemes, employment opportunities, post release social support, housing, and other social and vocational services. These services should also be available for people on remand and in all communities.
-
 [medical]: # (a)
 1. Ensure that all incarcerated people and accused offenders have access to: publicly funded, prompt and appropriate medical, mental health, optical, and dental treatment, safe consumption spaces, and other specialist health and disability services (health services).
 
@@ -456,7 +401,6 @@ The Queensland Greens will:
     1. Health services must be timely, fully accessible and culturally appropriate.
 
 1. Increase funding for legal and non-legal support services within prisons.
-
 [trainQCS]: # (a)
 1. Ensure adequate initial and ongoing training and support of Queensland Corrective Services (QCS) staff.
 
