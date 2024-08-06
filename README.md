@@ -8,11 +8,10 @@ This is an experient to demonstrate use of at `git` as tool for document control
 <dt>CurrentPolicies.md</dt>
 <dd> This is the wording of the current policies, reorderd to match, as closely as possible the proposal.</dd>
 <dt>NewPolicies.md</dt>
-<dd>This is snapshot of the "live" proposal from the [Google doc][1].
+<dd>This is snapshot of the "live" proposal from the
+<a href='https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ'>Google doc</a>.
 </dd>
 </dl>
-
-[1]: https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ
 
 Suggested formatting for keeping the editing simple:
 
@@ -20,6 +19,7 @@ Suggested formatting for keeping the editing simple:
 1. Forget number tracking in numbered lists. Simply start each numbered item with `1.`, and indent four spaces for each level of indendation.
 1. Avoid "reordering" without considering the massive burden you are placing on the many, many people that will need to look at things.
 1. Markdown is a very simple way to format documents, but just be aware that some of powerful features may end up tripping us.
+1. Be consistent with whitespace and tabs. It's a little thing but it helps tracking changes much easier.
 
 ### Notes on importing docs into markdown
 
