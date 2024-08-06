@@ -3,24 +3,17 @@
 ## Principles
 
 The Queensland Greens believe that:
-<!--- p.existence --->
 1. All individuals have a right to a safe, peaceful existence, free from harm and fear of violence.
 1. Crime prevention strategies, programs, and education must be evidence-based, proactive, community-led and holistic.
 1. We must focus on building up community-led systems that prevent, reduce, and better address violence and harm in our communities, rather than relying on law enforcement, prisons and child protection authorities to resolve them.
-<!--- p.FirstNations --->
 1. The over representation of First Nations peoples in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
-<!--- p.disabledPeople --->
 1. The over representation of disabled people in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
-<!--- p.coerciveControl --->
 1. Coercive control is unacceptable in our society and constitutes a significant and devastating part of domestic violence. A change in cultural attitudes to coercive control is crucial to reducing domestic violence.
-<!--- p.substanceUse --->
 1. Substance use is a health issue, not a criminal issue. Drug use and possession should be decriminalised.
-<!--- p.weapons --->
 1. Queensland should have strong effective evidence-based weapon control.
 
 ### Youth Justice
 1. Youth justice policies should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation, not punishment.
-<!--- p.criminalAge --->
 1. The age of criminal responsibility should be no lower than 14 years.
 1. Young people have the right to a safe and happy home, free from abuse and neglect.
 1. Young people have the right to community and to culturally appropriate community justice programs and services.
@@ -31,43 +24,28 @@ The Queensland Greens will:
 1. Prioritise and fund programs that promote:
     1. A reduction in the structural circumstances that create crime.
     1. Prevention strategies - including:
-<!--- a.literacy --->
 1. Access to culturally and linguistically appropriate literacy and numeracy programs as well as wider education, training and work opportunities;
-<!--- a.rehab --->
 1. The creation and expansion of publicly-funded drug and alcohol treatment and rehabilitation centres, that are voluntary, free, accessible and linguistically and culturally appropriate;
-<!--- a.childAbuse --->
 1. Breaking the cycle of social disadvantage that may result in child abuse and neglect, by providing equitable services to address systemic and structural oppression that creates disadvantage.
-<!--- a.specifics --->
 1. Specific services for First Nations peoples, culturally and linguistically diverse people, disabled people, and people from lower socio-economic backgrounds.
-<!--- a.support --->
 1. Voluntary early intervention programs, such as community based, residential, counselling and other support services.
-<!--- a.postRelease --->
 1. Post release services to prevent re-offending. Post-release services need to be properly funded and fully accessible in all communities - urban, regional and remote - and culturally appropriate.
 1. Services that are led by lived expertise, widely available, accessible, and free.
 1. Address domestic violence by:
-<!--- a.dv --->
 1. Introducing an adequately funded and integrated approach to combating domestic violence and sexual assault, with services available throughout the state.
-<!--- a.dvEd --->
 1. Implementing evidence-based ongoing prevention, education, and accountability programs aimed at law enforcement and judiciary regarding domestic violence including coercive control. These programs should be led by frontline services and informed by the lived expertise of victim survivors and oppressed peoples.
-<!--- a.dvYouth --->
 1. Providing protection, safety, and equality for young people in the prevention of and response to domestic violence, including access to their community and to culturally appropriate programs and services, in accordance with the Human Rights Act (QLD) and the International Convention on the Rights of the Child. Priority must be given to family support, including the option to stay with extended family and/or within their communities.
     1. Increasing educational campaigns about domestic and intimate partner violence that incorporate an understanding of intersectionality, including support, programs, awareness, and training with acknowledgement of LGBTIQA+, men, disabled, elderly, and youth survivors.
-<!--- a.hate --->
 1. Introduce specific programs to combat violence and harm against people on the basis of their race, religion, gender identity or sexual orientation, intersex status, disability, or other marginalisation. These programs must be led by people who have experienced the relevant marginalisation.
 1. Engage a study to determine whether, in line with overseas studies, hate crime laws in Australia disproportionately incarcerate marginalised people (such as First Nations, culturally and linguistically diverse, disabled, and LGBTIQA+ people).
-<!--- a.stats --->
 1. Continue to support a well-resourced and independent Crime Statistics and Research unit within the Queensland Government Statistician's Office.
 1. Support ongoing research of the over incarceration of First Nations people, with an oversight committee composed of First Nations peoples and community groups led by and for First Nations peoples to be specifically implemented at federal and state level.
 1. Support ongoing research of the over incarceration of disabled people, with an oversight committee composed of disabled people and community groups led by and for disabled people to be specifically implemented at federal and state level.
 1. Support ongoing research of the over incarceration of culturally and linguistically diverse (CALD) people, with an oversight committee composed of CALD people and community groups led by and for CALD people to be specifically implemented at federal and state level.
 1. Decriminalise sex work.
-<!--- a.drugs --->
 1. Implement drug law reform including the full decriminalisation of drug use.
-<!--- a.safePlace --->
 1. Support the ongoing provision and expansion of supervised safe places for drug- and alcohol-affected persons (i.e. safe consumption facilities), including drug/pill testing facilities. These facilities must be available in all regions and communities.
-<!--- a.alternatives --->
 1. Support trials of alternatives to the carceral system in communities in Queensland. Trials must be performed with full participatory community engagement, involvement of all community stakeholders, and with a shared power structure.
-<!--- a.legalAid --->
 1. Ensure sufficient funding for independent, free legal support and advocacy organisations including Legal Aid, Community Legal Centres, and Aboriginal and Torres Strait Islander Legal Services to:
 
 * Increase capacity for and accessibility of advice, representation, community legal education, and law reform; and
@@ -80,20 +58,15 @@ The Queensland Greens will:
 ### Youth Justice
 1. Empower and support youth advocates to advise and engage in decision-making that impacts young people.
 1. Fund evidence-based programs to engage young people in prosocial and development activities in their communities and schools.
-<!--- a.youthSupport --->
 1. Fund evidence-based diversionary programs for young people, as an alternative to the carceral system.
 1. Fund evidence-based, community-led programs for First Nations young people.
 
 ### Gun Control
 1. Continue controls over gun use and ownership by:
-<!--- a.handguns --->
 1. Banning the importation, ownership, possession and use of semi-automatic handguns with exemptions for Defence-owned guns.
-<!--- a.amnesty --->
 1. Maintaining amnesties on the surrender and buy-back of licensed firearms in perpetuity.
-<!--- a.amnestyEd --->
 1. Maintaining public education campaigns in support of the gun buy-back scheme.
     1. Requiring QPS to accurately monitor firearm ownership and safe storage of firearms.
-<!--- a.securityGuns --->
 1. Removing firearms from private security agencies.
 
 # Law Enforcement and Judicial Process
@@ -101,9 +74,7 @@ The Queensland Greens will:
 ## Principles
 
 The Queensland Greens believe that:
-<!--- p.betterJustice --->
 1. Law enforcement and judicial processes should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation.
-<!--- p.justEffective --->
 1. A just and effective criminal justice system:
 
 * Protects the community;
@@ -111,12 +82,9 @@ The Queensland Greens believe that:
 * Addresses the causes of crime;
 * Protects the human rights of victims, suspects, and perpetrators; and
 * Offers a range of interventions in addition to loss of liberty.
-<!--- p.lastResort --->
 1. Imprisonment should be a measure of last resort and focussed on rehabilitation.
 1. Loss of liberty, including custodial interventions, temporary holds, remand, and arrests should only be used in situations where the person is a risk to the community.
-<!--- p.nonviolent --->
 1. People should not be held in remand for minor or nonviolent offences.
-<!--- p.basics --->
 1. The following basic principles of criminal justice must be protected:
     1. Freedom from prolonged detention without charge or trial.
     1. The presumption in favour of bail.
@@ -127,14 +95,12 @@ The Queensland Greens believe that:
     1. The independence of the judiciary from political interference.
     1. Judicial discretion in sentencing and bail.
     1. The freedom from allegation based on association.
-<!--- p.victims --->
 1. Victims of crime should have improved, timely, accessible, linguistically and culturally appropriate compensation, counselling and other such measures, accessible in all regions and also accessible in terms of financial access and disability access.
 1. The state must be responsible for providing support services for people and their families adversely affected by crime.
 1. Domestic violence, including coercive control, requires an integrated system of response led by community organisations.
 1. Programs for prevention of incarceration, programs in custody and programs for newly released incarcerated people who are First Nations people need to be initiated and led by First Nations peoples.
 1. All people in closed environments, such as institutions, prisons, and psychiatric facilities, have a right to a safe, peaceful existence, free from harm and fear of violence.
 1. All people in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
-<!--- p.publicPrisons --->
 1. Any prisons, remand facilities or jails should be publicly owned and run.
 1. The state must provide support to alleged offenders until judicial processes are concluded.
 1. Activists and whistleblowers must have strong affirmative legal protections against raids, intimidation, and legal threats.
@@ -142,18 +108,14 @@ The Queensland Greens believe that:
 1. Incarcerated people have the right to work and to be compensated at full award rates.
 
 ### Youth Justice and Child Protection
-<!--- a.noYouthIncarceration --->
 1. We should aspire to have no youth incarceration.
-<!--- a.childProtection --->
 1. We must address the structural flaws within the existing child protection system fail children and families and do not address the underlying causes of crime.
 1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
 
 ### Law Enforcement
-<!--- p.restructure --->
 1. Law enforcement should be restructured to focus on core responsibilities for which they are suited and trained.
 1. Law enforcement and judicial process is to remain free from political influence, and should be separate from each other.
 1. Law enforcement should utilise de-escalation tactics and seek to successfully resolve situations without the use of force, firearms or tasers wherever possible.
-<!--- p.noHire --->
 1. The hiring of police by private interests, or any other form of privatisation of policing services, must be prohibited.
 1. People convicted of corruption, exploitation, or abuses of power should be prevented from holding authority positions within law enforcement or the judicial process system.
 1. Law enforcement must not be used to prevent protests or intimidate protestors.
@@ -161,16 +123,13 @@ The Queensland Greens believe that:
 
 ### Conclusion
 1. Imprisonment exacerbates the social conditions that lead to crime, and is more likely to result in recidivism, therefore efforts should be made to find alternatives.
-<!--- p.betterWay --->
 1. The current carceral justice system uses resources that would be better used to reduce rates of crime and imprisonment.
 1. We need to focus on building up holistic life-sustaining systems that prevent, reduce, and better address harm, in order to create a world where we do not need to rely on law enforcement, prisons, and child protection authorities to reduce and address violence and harm in our communities.
 
 ## Aims
 
 The Queensland Greens will:
-<!--- a.structural --->
 1. Support programs that address the structural circumstances contributing to crime.
-<!--- a.available --->
 1. Prioritise and fund alternatives to imprisonment which are widely available and not subject to geographic limitations.
 1. Increase funding for services for victim survivors, before, during, and after the incarceration of an offender.
 1. Implement in full all recommendations from the Royal Commission Into Aboriginal Deaths in Custody.
@@ -178,13 +137,9 @@ The Queensland Greens will:
 
 ### Law Enforcement
 1. Establish a separate entity to manage traffic control, traffic law enforcement, and crowd control.
-<!--- a.dvLead --->
 1. Introduce an adequately funded and integrated approach to respond to domestic violence and sexual assault, with services available throughout the state.
-<!--- a.dvResources --->
 1. Fund allied health workers and other community professionals to respond effectively to domestic and family violence.
-<!--- a.dvEd --->
 1. Implement ongoing preventative and educative programs aimed at the public, law enforcement, and the judiciary regarding domestic violence, including coercive control.
-<!--- a.training --->
 1. Ensure training and continued support for law enforcement officers in de-escalation and the successful resolution of situations without the use of force, firearms or tasers wherever possible.
     1. Training must include utilising the expertise of other sectors such as mental health or allied health services.
     1. Training needs to be initial and ongoing, and based on real-life simulation.
@@ -196,85 +151,58 @@ The Queensland Greens will:
     1. Require firearms and tasers training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
     1. Require body cameras to be worn by all law enforcement officers and operational at all times when on active duty.
     1. Where body camera footage is missing, adverse inference should be assumed.
-<!--- a.limitTaser --->
 1. Ensure limitations on the number of firings per incident.
     1. Ensure an investigation of every firearm incident with the findings made public.
-<!--- a.noDriveStun --->
 1. Ensure the removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
-<!--- a.removeWeapons --->
 1. Ensure law enforcement is not used to prevent protests or intimidate protestors.
-<!--- a.policeSupport --->
 1. Ensure that appropriate and accessible support services are provided to members of the Queensland Police Service (QPS).
     1. Mental health support services should be provided by external and independent services funded by the state, and accessing these on a regular basis must be a condition of employment.
     1. An independent body must be tasked to review and assess support services provided to law enforcement.
     1. Ensure QPS takes responsibility to verify that police officers are physically, mentally, and emotionally able to carry out their role.
     1. Ensure QPS verify the competence of officers in supporting vulnerable people and attending domestic violence incidents.
-<!--- a.diversity --->
 1. Ensure law enforcement agencies are trained by independent community organisations led by people with the relevant lived expertise to respect diversity when dealing with the general public.
-<!--- a.dogs --->
 1. End the training of law enforcement dogs to be violent to people and the use of dogs to carry out stop and searches and in situations where there is a possibility to hurt people.
-<!--- a.military --->
 1. Stop and reverse any policies which result in the militarisation of law enforcement, including the integration of military training, weapons, equipment, and philosophy into policing.
-<!--- a.independantInvestigation --->
 1. Support the establishment of an independent body and the mechanisms for the prevention and investigation of corruption specifically within the QPS, in recognition of the breadth of responsibilities of the Queensland Crime and Corruption Commission.
-<!--- a.properInvestigation --->
 1. Ensure that the system for the investigation and resolution of complaints is independent, transparent, accessible, effective, adequately resourced and timely.
-<!--- a.complaints --->
 1. Ensure the system for complaint resolution is reviewed and met with adaptive strategies to ensure processes are improved when ineffective or inappropriate processes are found.
 
 ### Judicial process and Sentencing
-<!--- a.noncustodial --->
 1. Advocate for the imposition of non-custodial penalties for those convicted of non-violent crimes in order to maximise the likelihood of successful rehabilitation and reduce recidivism.
-<!--- a.noPol --->
 1. Oppose political pressure to extend sentences already imposed by a court.
 1. Abolish mandatory minimum sentencing.
-<!--- a.restorative --->
 1. Expand the range of restorative justice and properly supervised diversionary measures.
-<!--- a.drugCourt --->
 1. Extend the operation of the Drug Court and the Youth Drug and Alcohol Court to more locations across Queensland.
 1. Increase funding and capacity of the Family Court to prioritise parenting proceedings involving family violence or where a party has breached a family violence order.
 1. Ensure legal protections for research, investigation, and responsible disclosure of security vulnerabilities.
-<!--- a.bail --->
 1. Remove unjust restrictions on the right to apply for bail, ensuring that any conditions placed on bail are reasonable and are not an indirect method of refusing bail.
-<!--- a.firstNationsCJ --->
 1. Support distinct criminal justice policies in relation to First Nations peoples, led by members of those communities.
-<!--- a.disabilityCJ --->
 1. Provide effective support systems within the courts for disabled people ( including victims, defendants/offenders, and witnesses).
-<!--- a.sACJ --->
 1. Monitor and implement any necessary reforms to minimise stress on complainants in sexual assault and rape trials, consistent with a fair investigation, trial, and court procedures.
 1. Provide discretion for judges to permit representation for victims within trials.
 1. Increase funding for non-legal support services that help people navigate the criminal justice system.
-<!--- a.DPP --->
 1. Adequately fund the office of Director of Public Prosecutions, and protect it from political interference.
-<!--- a.diverseJudiciary --->
 1. Support measures to encourage greater diversity of representation in the judiciary.
-<!--- a.noArchaic --->
 1. Support the removal of ‘archaic’ or ‘trivial’ offences from legislation.
 
 ### Prisons and Rehabilitation
-<!--- a.pubPrisons --->
 1. Re-establish public ownership and control of all Queensland correctional facilities.
-<!--- a.rights --->
 1. Support measures to ensure that the human rights and dignity of incarcerated people are respected within the prison environment, including:
     1. Ensuring independence for Official Visitors to prisons and their right to appeal against dismissal.
     1. Ensuring that within one week of a death in custody, next of kin and legal representation are notified and have the option to receive copies of records.
     1. Monitoring and publicly reporting deaths and assaults in custody, particularly First Nations deaths in custody.
-<!--- a.disabledSupport --->
 1. Providing effective programs and support systems within corrective services and prisons for all disabled incarcerated people.
     1. Ensuring prison occupancy does not exceed 100%.
     1. Abolishing subminimum wage for incarcerated people.
     1. Opposing coercive labour practices for incarcerated people and those on diversion programs.
     1. Extending the franchise to vote to all incarcerated people.
 1. Ensure that all people in closed environments are placed in facilities appropriate for their gender and gender identity.
-<!--- a.rehab --->
 1. Implement effective programs to rehabilitate incarcerated people and reduce recidivism, including education, training schemes, employment opportunities, post release social support, housing, and other social and vocational services. These services should also be available for people on remand and in all communities.
-<!--- a.medical --->
 1. Ensure that all incarcerated people and accused offenders have access to: publicly funded, prompt and appropriate medical, mental health, optical, and dental treatment, safe consumption spaces, and other specialist health and disability services (health services).
     1. All incarcerated people and accused offenders must have access to Medicare and the Pharmaceutical Benefits Scheme.
     1. All incarcerated people and accused offenders must have access to the NDIS and appropriate disability supports.
     1. Health services must be timely, fully accessible and culturally appropriate.
 1. Increase funding for legal and non-legal support services within prisons.
-<!--- a.trainQCS --->
 1. Ensure adequate initial and ongoing training and support of Queensland Corrective Services (QCS) staff.
     1. Ensure culturally-competent and trauma-informed training and continued support for QCS staff in de-escalation and the successful resolution of situations without the use of force, firearms or tasers wherever possible.
         1. Training must include utilising the expertise of other sectors such as mental health or allied health services.
