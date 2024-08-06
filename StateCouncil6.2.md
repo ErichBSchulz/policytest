@@ -58,7 +58,7 @@ The Queensland Greens will:
 
 ### Gun Control
 1. Continue controls over gun use and ownership by:
-    1. Banning the importation, ownership, possession and use of semi-automatic handguns with exemptions for Defence-owned guns.
+    1. Banning the importation, ownership, possession and use of semi-automatic handguns with exemptions for Government owned guns.
     1. Maintaining amnesties on the surrender and buy-back of licensed firearms in perpetuity.
     1. Maintaining public education campaigns in support of the gun buy-back scheme.
     1. Requiring QPS to accurately monitor firearm ownership and safe storage of firearms.
