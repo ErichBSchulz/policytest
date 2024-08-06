@@ -21,7 +21,7 @@ The Queensland Greens believe that:
 ### Youth Justice
 1. Youth justice policies should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation, not punishment.
 <!--- p.criminalAge --->
-1. The age of criminal responsibility should be no lower than 14 yearsthe voting age.
+1. The age of criminal responsibility should be no lower than 14 years.
 1. Young people have the right to a safe and happy home, free from abuse and neglect.
 1. Young people have the right to community and to culturally appropriate community justice programs and services.
 
@@ -30,7 +30,7 @@ The Queensland Greens believe that:
 The Queensland Greens will:
 1. Prioritise and fund programs that promote:
     1. A reduction in the structural circumstances that create crime.
-    1. Prevention strategies \- including:
+    1. Prevention strategies - including:
 <!--- a.literacy --->
 1. Access to culturally and linguistically appropriate literacy and numeracy programs as well as wider education, training and work opportunities;
 <!--- a.rehab --->
@@ -42,13 +42,13 @@ The Queensland Greens will:
 <!--- a.support --->
 1. Voluntary early intervention programs, such as community based, residential, counselling and other support services.
 <!--- a.postRelease --->
-1. Post release services to prevent re-offending. Post-release services need to be properly funded and fully accessible in all communities \- urban, regional and remote \- and culturally appropriate.
+1. Post release services to prevent re-offending. Post-release services need to be properly funded and fully accessible in all communities - urban, regional and remote - and culturally appropriate.
 1. Services that are led by lived expertise, widely available, accessible, and free.
 1. Address domestic violence by:
 <!--- a.dv --->
 1. Introducing an adequately funded and integrated approach to combating domestic violence and sexual assault, with services available throughout the state.
 <!--- a.dvEd --->
-1. Implementing evidence-based ongoing prevention , education, and accountability programs aimed at law enforcement and judiciary regarding domestic violence including coercive control. These programs should be led by frontline services and informed by the lived expertise of victim survivors and oppressed peoples.
+1. Implementing evidence-based ongoing prevention, education, and accountability programs aimed at law enforcement and judiciary regarding domestic violence including coercive control. These programs should be led by frontline services and informed by the lived expertise of victim survivors and oppressed peoples.
 <!--- a.dvYouth --->
 1. Providing protection, safety, and equality for young people in the prevention of and response to domestic violence, including access to their community and to culturally appropriate programs and services, in accordance with the Human Rights Act (QLD) and the International Convention on the Rights of the Child. Priority must be given to family support, including the option to stay with extended family and/or within their communities.
     1. Increasing educational campaigns about domestic and intimate partner violence that incorporate an understanding of intersectionality, including support, programs, awareness, and training with acknowledgement of LGBTIQA+, men, disabled, elderly, and youth survivors.
@@ -87,7 +87,7 @@ The Queensland Greens will:
 ### Gun Control
 1. Continue controls over gun use and ownership by:
 <!--- a.handguns --->
-1. Banning the importation, ownership, possession and use of semi-automatic handguns with exemptions for Defence\-owned guns.
+1. Banning the importation, ownership, possession and use of semi-automatic handguns with exemptions for Defence-owned guns.
 <!--- a.amnesty --->
 1. Maintaining amnesties on the surrender and buy-back of licensed firearms in perpetuity.
 <!--- a.amnestyEd --->
@@ -115,7 +115,7 @@ The Queensland Greens believe that:
 1. Imprisonment should be a measure of last resort and focussed on rehabilitation.
 1. Loss of liberty, including custodial interventions, temporary holds, remand, and arrests should only be used in situations where the person is a risk to the community.
 <!--- p.nonviolent --->
-1. People should not be held in remand for minor simple or nonviolent offences.
+1. People should not be held in remand for minor or nonviolent offences.
 <!--- p.basics --->
 1. The following basic principles of criminal justice must be protected:
     1. Freedom from prolonged detention without charge or trial.
@@ -128,10 +128,10 @@ The Queensland Greens believe that:
     1. Judicial discretion in sentencing and bail.
     1. The freedom from allegation based on association.
 <!--- p.victims --->
-1. Victims of crime should have improved , timely, accessible, linguistically and culturally appropriate compensation, counselling and other such measures, accessible in all regions and also accessible in terms of financial access and disability access.
+1. Victims of crime should have improved, timely, accessible, linguistically and culturally appropriate compensation, counselling and other such measures, accessible in all regions and also accessible in terms of financial access and disability access.
 1. The state must be responsible for providing support services for people and their families adversely affected by crime.
 1. Domestic violence, including coercive control, requires an integrated system of response led by community organisations.
-1. Programs for prevention of incarceration, programs in custody and programs for newly released incarcerated peopleprisoners who are First Nations people need to be initiated and led by First Nations peoples.
+1. Programs for prevention of incarceration, programs in custody and programs for newly released incarcerated people who are First Nations people need to be initiated and led by First Nations peoples.
 1. All people in closed environments, such as institutions, prisons, and psychiatric facilities, have a right to a safe, peaceful existence, free from harm and fear of violence.
 1. All people in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
 <!--- p.publicPrisons --->
@@ -145,8 +145,7 @@ The Queensland Greens believe that:
 <!--- a.noYouthIncarceration --->
 1. We should aspire to have no youth incarceration.
 <!--- a.childProtection --->
-1. We must address theThe structural flaws within the existing child protection system fail children and families and do not address the underlying causes of crime.
-1. Youth justice can never be achieved without addressing the flaws within the child protection system.
+1. We must address the structural flaws within the existing child protection system fail children and families and do not address the underlying causes of crime.
 1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
 
 ### Law Enforcement
@@ -191,9 +190,8 @@ The Queensland Greens will:
     1. Training needs to be initial and ongoing, and based on real-life simulation.
     1. Training and ongoing governance must be provided by an independent community-based body and funding should be allocated to this.
     1. Trainees should have access to independent whistleblowing.
-1. Remove firearms from law enforcement.
 1. While firearms and tasers are still in use by law enforcement:
-    1. Implement restrictions on what circumstances law enforcement can carry firearms and tasers, including limitationsa prohibition on concealed carry and a restriction to only officers who have undergone additional specialised training,specially trained units responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties..
+    1. Implement restrictions on what circumstances law enforcement can carry firearms and tasers, including limitations on concealed carry and a restriction to only officers who have undergone additional specialised training responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties..
     1. Require initial and ongoing firearms and tasers training, based on real-life simulation with a focus on ensuring the least violent outcomes.
     1. Require firearms and tasers training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
     1. Require body cameras to be worn by all law enforcement officers and operational at all times when on active duty.
@@ -204,17 +202,6 @@ The Queensland Greens will:
 <!--- a.noDriveStun --->
 1. Ensure the removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
 <!--- a.removeWeapons --->
-1. Remove tasers from law enforcement until additional safeguards are in place to ensure that only specially trained squads can use tasers, and that they only use tasers in situations of serious threat of violence to a person. Safeguards should include:
-    1. Initial and ongoing tasers training, based on real-life simulation with a focus on ensuring the least violent outcomes.
-    1. Training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
-<!--- a.notForCompliance --->
-1. A requirement that tasers are not used to enforce compliance.
-<!--- a.autorecord --->
-1. Tasers must have operational audio and video attachments, which automatically activate when a taser is withdrawn from its holster.
-    1. Where taser footage is missing, adverse inference should be assumed.
-    1. Pre-programmed limitations on the number of firings per incident
-    1. An investigation of every taser incident with the findings made public.
-    1. The removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
 1. Ensure law enforcement is not used to prevent protests or intimidate protestors.
 <!--- a.policeSupport --->
 1. Ensure that appropriate and accessible support services are provided to members of the Queensland Police Service (QPS).
@@ -245,7 +232,7 @@ The Queensland Greens will:
 1. Expand the range of restorative justice and properly supervised diversionary measures.
 <!--- a.drugCourt --->
 1. Extend the operation of the Drug Court and the Youth Drug and Alcohol Court to more locations across Queensland.
-1. Increase funding and capacity of the Family Court to prioritise parenting proceedings involving family violence or where a party has breached a family violence order.domestic violence cases and breacheparenting proceedings involving family violence or where a party has breached a family violence order.s of domestic violence orders.
+1. Increase funding and capacity of the Family Court to prioritise parenting proceedings involving family violence or where a party has breached a family violence order.
 1. Ensure legal protections for research, investigation, and responsible disclosure of security vulnerabilities.
 <!--- a.bail --->
 1. Remove unjust restrictions on the right to apply for bail, ensuring that any conditions placed on bail are reasonable and are not an indirect method of refusing bail.
