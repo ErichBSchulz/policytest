@@ -80,7 +80,7 @@ The Queensland Greens believe that:
     1. Offers a range of interventions in addition to loss of liberty.
 1. Imprisonment should be a measure of last resort and focussed on rehabilitation.
 1. Loss of liberty, including custodial interventions, temporary holds, remand, and arrests should only be used in situations where the person is a risk to the community.
-1. People should not be held in remand for simple or nonviolent offences.
+1. People should not be held in remand for minor, nonviolent offences.
 1. The following basic principles of criminal justice must be protected:
     1. Freedom from prolonged detention without charge or trial.
     1. The presumption in favour of bail.
@@ -143,22 +143,15 @@ The Queensland Greens will:
     1. Training and ongoing governance must be provided by an independent community-based body and funding should be allocated to this.
     1. Trainees should have access to independent whistleblowing.
 1. Remove firearms from law enforcement.
-1. While firearms are still in use by law enforcement:
-    1. Implement restrictions on what circumstances law enforcement can carry firearms, including a prohibition on concealed carry and a restriction to only specially trained units responding to situations with a serious threat of violence to a person.
-    1. Require initial and ongoing firearms training, based on real-life simulation with a focus on ensuring the least violent outcomes.
-    1. Require firearms training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
+1. While firearms and tasers are still in use by law enforcement:
+officers who have undergone additional specialised training, responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties.
+    1. Implement restrictions on what circumstances law enforcement can carry firearms, including a limitations on concealed carry and a restriction to only officers who have undergone additional specialised training, responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties.
+    1. Require initial and ongoing firearms and tasers training, based on real-life simulation with a focus on ensuring the least violent outcomes.
+    1. Require firearms and tasers training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
     1. Require body cameras to be worn by all law enforcement officers and operational at all times when on active duty.
     1. Where body camera footage is missing, adverse inference should be assumed.
     1. Ensure limitations on the number of firings per incident.
     1. Ensure an investigation of every firearm incident with the findings made public.
-1. Remove tasers from law enforcement until additional safeguards are in place to ensure that only specially trained squads can use tasers, and that they only use tasers in situations of serious threat of violence to a person. Safeguards should include:
-    1. Initial and ongoing tasers training, based on real-life simulation with a focus on ensuring the least violent outcomes.
-    1. Training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
-    1. A requirement that tasers are not used to enforce compliance.
-    1. Tasers must have operational audio and video attachments, which automatically activate when a taser is withdrawn from its holster.
-    1. Where taser footage is missing, adverse inference should be assumed.
-    1. Pre-programmed limitations on the number of firings per incident
-    1. An investigation of every taser incident with the findings made public.
     1. The removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
 1. Ensure law enforcement is not used to prevent protests or intimidate protestors.
 1. Ensure that appropriate and accessible support services are provided to members of the Queensland Police Service (QPS).
