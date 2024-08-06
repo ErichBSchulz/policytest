@@ -179,7 +179,7 @@ The Queensland Greens will:
 1. Abolish mandatory minimum sentencing.
 1. Expand the range of restorative justice and properly supervised diversionary measures.
 1. Extend the operation of the Drug Court and the Youth Drug and Alcohol Court to more locations across Queensland.
-1. Increase funding and capacity of the Family Court to prioritise domestic violence cases and breaches of domestic violence orders.
+1. Advocate for increased funding and capacity of the Family Court to prioritise parenting proceedings involving family and domestic violence or where a party has breached a domestic violence orders.
 1. Ensure legal protections for research, investigation, and responsible disclosure of security vulnerabilities.
 1. Remove unjust restrictions on the right to apply for bail, ensuring that any conditions placed on bail are reasonable and are not an indirect method of refusing bail.
 1. Support distinct criminal justice policies in relation to First Nations peoples, led by members of those communities.
