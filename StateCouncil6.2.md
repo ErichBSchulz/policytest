@@ -14,7 +14,7 @@ The Queensland Greens believe that:
 
 ### Youth Justice
 1. Youth justice policies should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation, not punishment.
-1. The age of criminal responsibility should be no lower than the voting age.
+1. The age of criminal responsibility should be no lower than 14 years.
 1. Young people have the right to a safe and happy home, free from abuse and neglect.
 1. Young people have the right to community and to culturally appropriate community justice programs and services.
 
