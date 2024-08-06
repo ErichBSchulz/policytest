@@ -99,7 +99,7 @@ The Queensland Greens believe that:
 1. The state must provide support to alleged offenders until judicial processes are concluded.
 1. Activists and whistleblowers must have strong affirmative legal protections against raids, intimidation, and legal threats.
 1. All individuals have a right to privacy, including freedom from arbitrary searches.
-1. Incarcerated people have the right to work and to be compensated at full award rates.
+1. Incarcerated people have the right to work fair working conditions and compensation at full award rates.
 
 ### Youth Justice and Child Protection
 1. We should aspire to have no youth incarceration.
