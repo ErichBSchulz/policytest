@@ -9,7 +9,7 @@ The Queensland Greens believe that:
 1. The over representation of First Nations peoples in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
 1. The over representation of disabled people in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
 1. Coercive control is unacceptable in our society and constitutes a significant and devastating part of domestic violence. A change in cultural attitudes to coercive control is crucial to reducing domestic violence.
-1. Substance use is a health issue, not a criminal issue. Drug use and possession should be decriminalised.
+1. Substance use is a health issue, not a criminal issue. Drug use and possession should be legalised or decriminalised.
 1. Queensland should have strong effective evidence-based weapon control.
 
 ### Youth Justice
@@ -25,7 +25,7 @@ The Queensland Greens will:
     1. A reduction in the structural circumstances that create crime.
     1. Prevention strategies - including:
         1. Access to culturally and linguistically appropriate literacy and numeracy programs as well as wider education, training and work opportunities;
-        1. The creation and expansion of publicly-funded drug and alcohol treatment and rehabilitation centres, that are voluntary, free, accessible and linguistically and culturally appropriate;
+        1. The creation and expansion of publicly-funded drug and alcohol treatment and rehabilitation centres (including youth specific centres), that are voluntary, free, accessible and linguistically and culturally appropriate;
         1. Breaking the cycle of social disadvantage that may result in child abuse and neglect, by providing equitable services to address systemic and structural oppression that creates disadvantage.
         1. Specific services for First Nations peoples, culturally and linguistically diverse people, disabled people, and people from lower socio-economic backgrounds.
         1. Voluntary early intervention programs, such as community based, residential, counselling and other support services.
@@ -42,9 +42,9 @@ The Queensland Greens will:
 1. Support ongoing research of the over incarceration of First Nations people, with an oversight committee composed of First Nations peoples and community groups led by and for First Nations peoples to be specifically implemented at federal and state level.
 1. Support ongoing research of the over incarceration of disabled people, with an oversight committee composed of disabled people and community groups led by and for disabled people to be specifically implemented at federal and state level.
 1. Support ongoing research of the over incarceration of culturally and linguistically diverse (CALD) people, with an oversight committee composed of CALD people and community groups led by and for CALD people to be specifically implemented at federal and state level.
-1. Decriminalise sex work.
-1. Implement drug law reform including the full decriminalisation of drug use.
-1. Support the ongoing provision and expansion of supervised safe places for drug- and alcohol-affected persons (i.e. safe consumption facilities), including drug/pill testing facilities. These facilities must be available in all regions and communities.
+1. Maintain the decriminalisation of sex work.
+1. Implement drug law reform including the full decriminalisation or legalisation of drug use.
+1. Support the ongoing provision and expansion of drug harm reduction programs including safe consumption facilities, drug checking/pill testing facilities, Opioid Substitution Therapy (OST), free take-home naloxone, and needle and syringe programs. These services must be accessible in all regions.
 1. Support trials of alternatives to the carceral system in communities in Queensland. Trials must be performed with full participatory community engagement, involvement of all community stakeholders, and with a shared power structure.
 1. Ensure sufficient funding for independent, free legal support and advocacy organisations including Legal Aid, Community Legal Centres, and Aboriginal and Torres Strait Islander Legal Services to: * Increase capacity for and accessibility of advice, representation, community legal education, and law reform; and * Increase the diversity of representation available.
 1. Provide sufficient funding to compliance bodies to ensure non-government legal and advocacy services are independent and meeting ethical and service standards.
@@ -105,8 +105,8 @@ The Queensland Greens believe that:
 
 ### Youth Justice and Child Protection
 1. We should aspire to have no youth incarceration.
-1. We must address the structural flaws within the existing child protection system fail which children and families and do not address the underlying causes of crime.
-1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
+1. We must address the structural flaws within the existing child protection system which fail children and families and do not address the underlying causes of crime.
+1. Children failed by the child protection system are unacceptably and avoidably over-represented in the justice system in Queensland, and this must be ended.
 
 ### Law Enforcement
 1. Law enforcement should be restructured to focus on core responsibilities for which they are suited and trained.
@@ -162,7 +162,8 @@ officers who have undergone additional specialised training, responding to situa
 1. Ensure law enforcement agencies are trained by independent community organisations led by people with the relevant lived expertise to respect diversity when dealing with the general public.
 1. End the training of law enforcement dogs to be violent to people and the use of dogs to carry out stop and searches and in situations where there is a possibility to hurt people.
 1. Stop and reverse any policies which result in the militarisation of law enforcement, including the integration of military training, weapons, equipment, and philosophy into policing.
-1. Support the establishment of an independent body and the mechanisms for the prevention and investigation of corruption specifically within the QPS, in recognition of the breadth of responsibilities of the Queensland Crime and Corruption Commission.
+1. Ban strip searches without a warrant, including their use on incarcerated people. In the case of underage people, there must also be a legal guardian present.
+1. Support the establishment of an independent body and mechanisms for civilians to investigate and prevent all police misconduct and corrupt conduct.
 1. Ensure that the system for the investigation and resolution of complaints is independent, transparent, accessible, effective, adequately resourced and timely.
 1. Ensure the system for complaint resolution is reviewed and met with adaptive strategies to ensure processes are improved when ineffective or inappropriate processes are found.
 
@@ -197,7 +198,7 @@ officers who have undergone additional specialised training, responding to situa
     1. Extending the franchise to vote to all incarcerated people.
 1. Ensure that all people in closed environments are placed in facilities appropriate for their gender and gender identity.
 1. Implement effective programs to rehabilitate incarcerated people and reduce recidivism, including education, training schemes, employment opportunities, post release social support, housing, and other social and vocational services. These services should also be available for people on remand and in all communities.
-1. Ensure that all incarcerated people and accused offenders have access to: publicly funded, prompt and appropriate medical, mental health, optical, and dental treatment, safe consumption spaces, and other specialist health and disability services (health services).
+1. Ensure that all incarcerated people and accused offenders have access to publicly funded, prompt and accessible medical care, including but not limited to: mental health, optical, and dental treatment, drug harm reduction services including opioid substitution or agonist therapy, naloxone and needle and syringe programs, sexual health services and prophylactics, and other specialist health and disability services (health services).
     1. All incarcerated people and accused offenders must have access to Medicare and the Pharmaceutical Benefits Scheme.
     1. All incarcerated people and accused offenders must have access to the NDIS and appropriate disability supports.
     1. Health services must be timely, fully accessible and culturally appropriate.
@@ -211,3 +212,5 @@ officers who have undergone additional specialised training, responding to situa
     1. Ensure that appropriate and accessible support services are provided to QCS staff.
         1. Mental health support services should be provided by external and independent services funded by the state, and accessing these on a regular basis must be a condition of employment.
         1. An independent body must be tasked to review and assess support services provided to QCS staff.
+
+1. Ban the use of spit hoods and similar devices.
