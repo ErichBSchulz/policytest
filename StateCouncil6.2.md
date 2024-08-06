@@ -133,7 +133,7 @@ The Queensland Greens will:
 1. Require that crime scene cleanup be the responsibility of, and paid for by, the state.
 
 ### Law Enforcement
-1. Establish a separate entity to manage traffic control, traffic law enforcement, and crowd control.
+1. Assign management of traffic control, regulatory traffic law enforcement, and crowd control to another entity.
 1. Introduce an adequately funded and integrated approach to respond to domestic violence and sexual assault, with services available throughout the state.
 1. Fund allied health workers and other community professionals to respond effectively to domestic and family violence.
 1. Implement ongoing preventative and educative programs aimed at the public, law enforcement, and the judiciary regarding domestic violence, including coercive control.
@@ -150,9 +150,9 @@ officers who have undergone additional specialised training, responding to situa
     1. Require firearms and tasers training and ongoing governance to be provided by an independent community-based body and funding should be allocated to this.
     1. Require body cameras to be worn by all law enforcement officers and operational at all times when on active duty.
     1. Where body camera footage is missing, adverse inference should be assumed.
-    1. Ensure limitations on the number of firings per incident.
-    1. Ensure an investigation of every firearm incident with the findings made public.
+    1. Ensure an investigation of every firearm and taser incident with the findings made public.
     1. The removal of all law enforcement tasers which are capable of operating in drive stun or dry tasering mode.
+    1. Require that tasers are not used to enforce compliance.
 1. Ensure law enforcement is not used to prevent protests or intimidate protestors.
 1. Ensure that appropriate and accessible support services are provided to members of the Queensland Police Service (QPS).
     1. Mental health support services should be provided by external and independent services funded by the state, and accessing these on a regular basis must be a condition of employment.
