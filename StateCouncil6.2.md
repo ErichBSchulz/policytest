@@ -53,8 +53,7 @@ The Queensland Greens will:
 
 ### Youth Justice
 1. Empower and support youth advocates to advise and engage in decision-making that impacts young people.
-1. Fund evidence-based programs to engage young people in prosocial and development activities in their communities and schools.
-1. Fund evidence-based diversionary programs for young people, as an alternative to the carceral system.
+1. Fund evidence-based programs to engage young people in prosocial and development activities in their communities and schools, and provide counselling and support programs for young people, as an alternative to the carceral system.
 1. Fund evidence-based, community-led programs for First Nations young people.
 
 ### Gun Control
