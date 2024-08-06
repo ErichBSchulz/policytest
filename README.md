@@ -8,9 +8,11 @@ This is an experient to demonstrate use of at `git` as tool for document control
 <dt>CurrentPolicies.md</dt>
 <dd> This is the wording of the current policies, reorderd to match, as closely as possible the proposal.</dd>
 <dt>NewPolicies.md</dt>
-<dd>This is snapshot of the "live" proposal from the [Google doc](https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ).
+<dd>This is snapshot of the "live" proposal from the [Google doc][1].
 </dd>
 </dl>
+
+[1]: https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ
 
 Suggested formatting for keeping the editing simple:
 
