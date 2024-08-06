@@ -34,7 +34,7 @@ The Queensland Greens will:
 1. Address domestic violence by:
     1. Introducing an adequately funded and integrated approach to combating domestic violence and sexual assault, with services available throughout the state.
     1. Implementing evidence-based ongoing prevention, education, and accountability programs aimed at law enforcement and judiciary regarding domestic violence including coercive control. These programs should be led by frontline services and informed by the lived expertise of victim survivors and oppressed peoples.
-    1. Providing protection, safety, and equality for young people in the prevention of and response to domestic violence, including access to their community and to culturally appropriate programs and services, in accordance with the Human Rights Act (QLD) and the International Convention on the Rights of theChild. Priority must be given to family support, including the option to stay with extended family and/or within their communities.
+    1. Providing protection, safety, and equality for young people in the prevention of and response to domestic violence, including access to their community and to culturally appropriate programs and services, in accordance with the Human Rights Act (QLD) and the International Convention on the Rights of the Child. Priority must be given to family support, including the option to stay with extended family and/or within their communities.
     1. Increasing educational campaigns about domestic and intimate partner violence that incorporate an understanding of intersectionality, including support, programs, awareness, and training with acknowledgement of LGBTIQA+, men, disabled, elderly, and youth survivors.
 1. Introduce specific programs to combat violence and harm against people on the basis of their race, religion, gender identity or sexual orientation, intersex status, disability, or other marginalisation. These programs must be led by people who have experienced the relevant marginalisation.
 1. Engage a study to determine whether, in line with overseas studies, hate crime laws in Australia disproportionately incarcerate marginalised people (such as First Nations, culturally and linguistically diverse, disabled, and LGBTIQA+ people).
@@ -64,7 +64,7 @@ The Queensland Greens will:
     1. Maintaining amnesties on the surrender and buy-back of licensed firearms in perpetuity.
     1. Maintaining public education campaigns in support of the gun buy-back scheme.
     1. Requiring QPS to accurately monitor firearm ownership and safe storage of firearms.
-    1. Removing firearms from private security agencies
+    1. Removing firearms from private security agencies.
 
 # Law Enforcement and Judicial Process Policy
 
@@ -72,7 +72,12 @@ The Queensland Greens will:
 
 The Queensland Greens believe that:
 1. Law enforcement and judicial processes should be guided by restorative and transformative justice principles, with a focus on education and rehabilitation.
-1. A just and effective criminal justice system: ● ● ● ● ● Protects the community; Reduces the social impacts of crime; Addresses the causes of crime; Protects the human rights of victims, suspects, and perpetrators; and Offers a range of interventions in addition to loss of liberty.
+1. A just and effective criminal justice system:
+    1. Protects the community
+    1. Reduces the social impacts of crime
+    1. Addresses the causes of crime
+    1. Protects the human rights of victims, suspects, and perpetrators and
+    1. Offers a range of interventions in addition to loss of liberty.
 1. Imprisonment should be a measure of last resort and focussed on rehabilitation.
 1. Loss of liberty, including custodial interventions, temporary holds, remand, and arrests should only be used in situations where the person is a risk to the community.
 1. People should not be held in remand for simple or nonviolent offences.
