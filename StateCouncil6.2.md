@@ -94,7 +94,7 @@ The Queensland Greens believe that:
 1. Victims of crime should have improved, timely, accessible, linguistically and culturally appropriate compensation, counselling and other such measures, accessible in all regions and also accessible in terms of financial access and disability access.
 1. The state must be responsible for providing support services for people and their families adversely affected by crime.
 1. Domestic violence, including coercive control, requires an integrated system of response led by community organisations.
-1. Programs for prevention of incarceration, programs in custody and programs for newly released prisoners who are First Nations people need to be initiated and led by First Nations peoples.
+1. Programs for prevention of incarceration, programs in custody and programs for newly released incarcerated people who are First Nations people need to be initiated and led by First Nations peoples.
 1. All people in closed environments, such as institutions, prisons, and psychiatric facilities, have a right to a safe, peaceful existence, free from harm and fear of violence.
 1. All people in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
 1. Any prisons, remand facilities or jails should be publicly owned and run.
@@ -105,9 +105,8 @@ The Queensland Greens believe that:
 
 ### Youth Justice and Child Protection
 1. We should aspire to have no youth incarceration.
-1. The structural flaws within the child protection system fail children and families and do not address the underlying causes of crime.
-1. Youth justice can never be achieved without addressing the flaws within the child protection system.
-1. Children failed by the child protection system are funnelled into the justice system.
+1. We must address the structural flaws within the existing child protection system fail which children and families and do not address the underlying causes of crime.
+1. Children failed by the child protection system are funnelled into the justice system, and this must be ended.
 
 ### Law Enforcement
 1. Law enforcement should be restructured to focus on core responsibilities for which they are suited and trained.
