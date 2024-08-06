@@ -196,7 +196,7 @@ officers who have undergone additional specialised training, responding to situa
     1. Repealing laws that disenfranchise incarcerated people.
 1. Ensure that all people in closed environments are placed in facilities appropriate for their gender.
 1. Implement effective programs to rehabilitate incarcerated people and reduce recidivism, including education, training schemes, employment opportunities, post release social support, housing, and other social and vocational services. These services should also be available for people on remand and in all communities.
-1. Ensure that all incarcerated people and accused offenders have access to publicly funded, prompt and accessible medical care, including but not limited to: mental health, optical, and dental treatment, drug harm reduction services including opioid substitution or agonist therapy, naloxone and needle and syringe programs, sexual health services and prophylactics, and other specialist health and disability services (health services).
+1. Ensure that all incarcerated people and accused offenders have access to publicly funded, prompt and accessible medical care, including but not limited to: mental health, optical, and dental treatment, drug harm reduction services including opioid substitution or agonist therapy, naloxone and needle and syringe programs, sexual health services and prophylactics, and other specialist health and disability services.
     1. All incarcerated people and accused offenders must have access to Medicare and the Pharmaceutical Benefits Scheme.
     1. All incarcerated people and accused offenders must have access to the NDIS and appropriate disability supports.
     1. Health services must be timely, fully accessible and culturally appropriate.
