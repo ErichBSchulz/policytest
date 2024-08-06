@@ -8,8 +8,7 @@ This is an experient to demonstrate use of at `git` as tool for document control
 <dt>CurrentPolicies.md</dt>
 <dd> This is the wording of the current policies, reorderd to match, as closely as possible the proposal.</dd>
 <dt>NewPolicies.md</dt>
-<dd>This is snapshot of the "live" proposal from the
-[Google doc](https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ/edit?usp=sharing&ouid=107291495832032321355&rtpof=true&sd=true).
+<dd>This is snapshot of the "live" proposal from the [Google doc](https://docs.google.com/document/d/1CU6ridrMg2Ymvm2ZnpvSpxG0urKiswnQ).
 </dd>
 </dl>
 
@@ -22,7 +21,7 @@ Suggested formatting for keeping the editing simple:
 
 ### Notes on importing docs into markdown
 
-You can save a Google doc in markdown format. If you've kept it simple the docs don't need much work after this.
+You can save a Google doc in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. If you've kept it simple the docs don't need much work after this.
 
 Handy commands to refomat numbered lists from Google docs:
 
