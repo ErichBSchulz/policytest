@@ -118,8 +118,7 @@ The Queensland Greens believe that:
 ### Conclusion
 1. Imprisonment exacerbates the social conditions that lead to crime, and is more likely to result in recidivism, therefore efforts should be made to find alternatives.
 1. The current carceral justice system uses resources that would be better used to reduce rates of crime and imprisonment.
-1. We need to focus on building up holistic life-sustaining systems that prevent, reduce, and better address harm, in order to create a world where we do not need to rely on law enforcement, prisons, and child protection authorities to reduce and address violence and harm in our communities.
-
+1. In order to create a world where we do not need to rely on law enforcement, prisons, and child protection authorities we must focus on building systems to address the causes of violence and harm in our communities.
 
 ## Aims
 
