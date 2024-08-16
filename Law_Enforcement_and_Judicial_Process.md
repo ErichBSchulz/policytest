@@ -28,7 +28,7 @@ The Queensland Greens believe that:
 1. Domestic violence, including coercive control, requires an integrated system of response led by community organisations.
 1. Programs for prevention of incarceration, programs in custody and programs for newly released incarcerated people who are First Nations people need to be initiated and led by First Nations peoples.
 1. All people in closed environments, such as institutions, prisons, and psychiatric facilities, have a right to a safe, peaceful existence, free from harm and fear of violence.
-1. All people in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
+1. People in closed environments must receive appropriate care relating to their gender, sexual orientation, culture, religion, disability, and other axes of oppression.
 1. Any prisons, remand facilities or jails should be publicly owned and run.
 1. The state must provide support to alleged offenders until judicial processes are concluded.
 1. Activists and whistleblowers must have strong affirmative legal protections against raids, intimidation, and legal threats.
