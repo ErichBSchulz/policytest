@@ -49,7 +49,6 @@ The Queensland Greens will:
 1. Provide sufficient funding to compliance bodies to ensure non-government legal and advocacy services are independent and meeting ethical and service standards.
 1. Increase the scope of independent legal support and advocacy organisations so that they are able to advise on more areas of law.
 1. Where necessary, provide appropriate support to allow for independent legal support and advocacy organisations to ethically represent both parties in a dispute.
-1. Strengthen legal protections for good-faith research. Discovering or publishing institutional problems benefits society, and must not be criminalised.
 
 ### Youth Justice
 1. Empower and support youth advocates to advise and engage in decision-making that impacts young people.
