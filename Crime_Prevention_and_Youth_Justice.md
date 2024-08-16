@@ -9,7 +9,7 @@ The Queensland Greens believe that:
 1. The over representation of First Nations peoples in the criminal justice system in Queensland is unacceptable and avoidable, and must be ended.
 1. Criminalisation of disability, mental illness and substance use results in the over-representation of disabled people in the criminal justice system and the government must deliver effective services to prevent this.
 1. Coercive control is unacceptable in our society and constitutes a significant and devastating part of domestic violence. A change in cultural attitudes to coercive control is crucial to reducing domestic violence.
-1. Substance use is a health issue, not a criminal issue. Drug use and possession should be legalised or decriminalised.
+1. Substance use is a health issue, not a criminal issue. Drug use and personal possession should be legalised or decriminalised.
 1. Queensland should have strong effective evidence-based weapon control.
 
 ### Youth Justice
