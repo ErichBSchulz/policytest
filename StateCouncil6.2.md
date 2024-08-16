@@ -139,7 +139,6 @@ The Queensland Greens will:
     1. Training needs to be initial and ongoing, and based on real-life simulation.
     1. Training and ongoing governance must be provided by an independent community-based body and funding should be allocated to this.
     1. Trainees should have access to independent whistleblowing.
-1. Remove firearms from law enforcement.
 1. While firearms and tasers are still in use by law enforcement:
 officers who have undergone additional specialised training, responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties.
     1. Implement restrictions on what circumstances law enforcement can carry firearms, including a limitations on concealed carry and a restriction to only officers who have undergone additional specialised training, responding to situations with a serious threat of violence to a person, and appropriateness relating to location and expected duties.
